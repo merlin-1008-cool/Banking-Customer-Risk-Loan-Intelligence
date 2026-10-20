@@ -85,8 +85,9 @@ These findings describe the synthetic dataset and should not be interpreted as r
 
 Project Structure
 
-* data/ — Banking datasets and SQL scripts.
-* notebook/ — Python data-generation and analysis notebooks.
+* Banking datasets and SQL scripts.
+* Python data-generation and analysis notebooks.
+* interactive Power BI dashboard with extension .pbix
 * README.md — Project documentation.
 
 Experimental machine learning files are not part of the final project deliverables.
