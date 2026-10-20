@@ -87,7 +87,7 @@ Project Structure
 
 * Banking datasets and SQL scripts.
 * Python data-generation and analysis notebooks.
-* interactive Power BI dashboard with extension .pbix
+* Interactive Power BI dashboard with extension .pbix
 * README.md — Project documentation.
 
 Experimental machine learning files are not part of the final project deliverables.
